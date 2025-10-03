@@ -12,7 +12,7 @@ your local compsci and music nerd.
 - 📚 Studying at: Sophomore at IIEST Shibpur (Information Technology)
 - 🏆 Interested in: Open-source, Web-dev, AI, automation
 - 💬 Ask me about: Python, Node, Linux or why United deserves to be relagated to league one
-- 📫 Reach me at: [ralphraout@gmail.com]
+- 📫 Reach me at: [prayas.sinha.work@gmail.com]
 ---
 
 ## Tech Stack
