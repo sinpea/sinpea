@@ -1,7 +1,78 @@
-## Hello, this is Prayas ##
+<div align="center">
+  <!--<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />-->
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ5MzlyMXoyaGdzMHJtYWsyOHZkNzF6dmgxdTg0bWt1bzd1bnkydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/prayas-sinha-713499346/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <a href="https://ramblingsofsinpea.bearblog.dev"><img src="https://img.shields.io/static/v1?message=BearBlog&logo=bearblog&label=&color=2F997B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
+  <!--
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+-->
+</div>
+
+###
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=sinpea%2Fsinpea&countColor=%232ccce4&style=flat" />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Prayas from Howrah<br><br>- 🔭 I'm an IT undergrad at IIEST Shibpur<br>- 📚 I'm currently nerding out about how DRMs work (not sure why)<br>- ⚡ In my free time I like consuming metric tons of coffee</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="CPP logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" height="40"/>
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sinpea&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+<!--## Hello, this is Prayas ##
 
 
-Your local music, compsci nerd.
+Your local music, compsci, cybersec nerd.
 Reach me at: [prayas.sinha.work@gmail.com]
 
 ### Tech Stack
@@ -23,10 +94,9 @@ Reach me at: [prayas.sinha.work@gmail.com]
 
 ### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sinpea&show_icons=true&theme=tokyonight)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinpea&theme=tokyonight)
 
-<!--
+
 **sinpea/sinpea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
