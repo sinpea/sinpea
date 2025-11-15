@@ -1,18 +1,6 @@
 ## Hello, this is Prayas
-
-
----
-
-## About Me
-your local compsci and music nerd.
-
-“It starts with one bug… I don’t know why, but it turns into a new feature, fine.”
-- 🎓 Currently learning: AI/ML and related technologies.
-- 💼 Working on: A few side projects here and there.
-- 📚 Studying at: Sophomore at IIEST Shibpur (Information Technology)
-- 🏆 Interested in: Open-source, Web-dev, AI, automation
-- 💬 Ask me about: Python, Node, Linux or why United deserves to be relagated to league one
-- 📫 Reach me at: [prayas.sinha.work@gmail.com]
+Your local music, compsci nerd.
+Reach me at: [prayas.sinha.work@gmail.com]
 ---
 
 ## Tech Stack
@@ -37,9 +25,6 @@ your local compsci and music nerd.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sinpea&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinpea&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinpea&layout=compact&theme=tokyonight)
-
 
 <!--
 **sinpea/sinpea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
