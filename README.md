@@ -1,7 +1,8 @@
-## Hello, this is Prayas
+## Hello, this is Prayas ##
+
+
 Your local music, compsci nerd.
 Reach me at: [prayas.sinha.work@gmail.com]
----
 
 ## Tech Stack
 
@@ -20,7 +21,6 @@ Reach me at: [prayas.sinha.work@gmail.com]
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
----
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sinpea&show_icons=true&theme=tokyonight)
 
