@@ -4,7 +4,7 @@
 Your local music, compsci nerd.
 Reach me at: [prayas.sinha.work@gmail.com]
 
-## Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -21,7 +21,7 @@ Reach me at: [prayas.sinha.work@gmail.com]
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## GitHub Stats
+### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sinpea&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sinpea&theme=tokyonight)
